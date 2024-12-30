@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Auto Click (自动点击)</string>
+    <string name="accessibility_service_description">Auto Click and Swipe Service (自动点击和滑动服务，用于模拟屏幕操作)</string>
+    <string name="service_not_enabled">Please enable accessibility service in system settings (请在系统设置中启用无障碍服务)</string>
+    <string name="start_automation">Start</string>
+    <string name="stop_automation">Stop</string>
+    <string name="record_actions">Record</string>
+    <string name="save_actions">Save</string>
+    <string name="enable_service">Enable Service</string>
+    <string name="save_recording">Save Recording</string>
+    <string name="save_config">Save Config</string>
+    <string name="cancel">Cancel</string>
+    <string name="config_name">Config Name</string>
+    <string name="saved_configs">Saved Configs</string>
+    <string name="save_config_title">Save Configuration</string>
+    <string name="delete">Delete</string>
+    <string name="start">Start</string>
+</resources>
